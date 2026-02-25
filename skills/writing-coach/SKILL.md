@@ -31,7 +31,7 @@ Provide a list of questions this sentence raises in the following format:
 2. Why was Carla driving so irrationally?
 ```
 
-Provide a list of constructive critism on any info dumping or cliche (waking up, dreaming) in the following format:
+Provide a list of constructive criticism on any info dumping or cliche (waking up, dreaming) in the following format:
 
 ```markdown
 **Cliches**
@@ -44,7 +44,7 @@ Provide constructive criticism of why this sentence will or will not hook the re
 ```markdown
 **Does It Hook The Reader?**
 YES - This is a compelling opening with dynamic action taking place (positive response)
-NO - This is a mundate action that doesn't stand out or raise any compelling questions for the reader to continue to engage with the content (negative response)
+NO - This is a mundane action that doesn't stand out or raise any compelling questions for the reader to continue to engage with the content (negative response)
 ```
 
 Give the hook a strength rating from 1 - 5 with 1 being low and 5 being high, explain the reasoning for this rating in the following format:
@@ -67,15 +67,15 @@ Now let's suggest ways to improve the hook without re-writing the text of the fi
 
 ```markdown
 **Room For Improvement**
-You can condense your existing hook by using stronger adjectives and sticking to the core of the hook you already have, try cuting the following words: [like a masterpiece, angry] so that your hook is instead: Carla slammed on the brakes and cursed the vindictive asshole as hard as the deer crashing through her windshield.
+You can condense your existing hook by using stronger adjectives and sticking to the core of the hook you already have, try cutting the following words: [like a masterpiece, angry] so that your hook is instead: Carla slammed on the brakes and cursed the vindictive asshole as hard as the deer crashing through her windshield.
 ```
 
-Provide some alternative hooks from the exact text in the [story-content] and explainations for why these are stronger hooks that the current first sentence hook in the following format:
+Provide some alternative hooks from the exact text in the [story-content] and explanations for why these are stronger hooks that the current first sentence hook in the following format:
 
 ```markdown
 **Alternative Hooks**
 1. His hands tightened around her throat and Carla's life flashed before her eyes. - this brings an immediate urgency to the story.
-2. Oh fuck, what had she done? - Raises a huge number of questions and implies an immedate conflict puting "she" as the guilty party
+2. Oh fuck, what had she done? - Raises a huge number of questions and implies an immediate conflict putting "she" as the guilty party
 ```
 
 Provide the following prompt to the user: `Would you like to re-run this evaluation with a different hook or continue to the next topic?`
@@ -290,10 +290,10 @@ Create an overall summary of the [story-content] in the following format:
 [Provide a list of things that make this easy or hard to read]
 
 **Genre**
-[Provide an explaination of which genre you think this story content fits into]
+[Provide an explanation of which genre you think this story content fits into]
 
 **Tone**
-[Provide an explaination of the tone being set for this story content along with wether or not the tone is appropriate for the genre]
+[Provide an explanation of the tone being set for this story content along with wether or not the tone is appropriate for the genre]
 
 **Tropes**
 [Provide a list of tropes you idenfied in this story content]

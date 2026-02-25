@@ -23,22 +23,22 @@ Every [book-title] or [book-number]-[book-title] folder will include the followi
 - story/tropes.md (tropes for the target genre)
 - story/recommendations.md (dev editor recommendations)
 - characters/protagonist.md (main character)
-- characters/antagonist.md (villan/bad guy)
+- characters/antagonist.md (villain/bad guy)
 - characters/relationship.md (love interest)
-- characters/distraction.md (pulls main character them away from goal)
-- characters/emotion.md (evokes an emotinal response)
-- characters/reason.md (provides the most logical/reasonal explaination)
+- characters/distraction.md (pulls main character away from their goal)
+- characters/emotion.md (evokes an emotional response)
+- characters/reason.md (provides the most logical/reasonable explanation)
 - characters/support.md (mentor/teacher)
 - characters/opposition.md (obstacle in the way of the goal)
 - world-building/geography.md (locations, cities, landmarks, weather, solar system)
 - world-building/flora-fauna.md (plants, animals, insects, species)
 - world-building/politics.md (government, power relationships, decisions in groups, class and economic status, distribution of resources)
-- world-building/religions.md (faith, gods, beliefs, practices, prophicies, items of worship, supernatural)
+- world-building/religions.md (faith, gods, beliefs, practices, prophecies, items of worship, supernatural)
 - world-building/resources.md (minerals, gold, trade, food, water)
 - world-building/culture-conflicts.md (shared values, customs, behaviors, and artifacts that characterize a group, institution, or society, passed down through generations)
 - outline/plot-centered.md (prioritizes fast-paced, action-oriented, and causal events over character development, commonly following Freytag’s Pyramid)
 - outline/character-centered.md (focuses on the protagonist's internal journey, emotional growth, and motivations, where their choices drive the plot rather than external events)
-- outline/romance.md (follow romance reader expecations of meet-cute and happily ever after)
+- outline/romance.md (follow romance reader expectations of meet-cute and happily ever after)
 - outline/mystery.md (follows mystery reader expectations of murder with clues and finding the murderer)
 - outline/horror.md (follow horror reader expectations of going deeper into the horror)
 - outline/short-story.md (adjusted for shorter stories with a limited word count usually under 5k words)
@@ -141,7 +141,7 @@ The next document will be saved to `story/genre.md` in the appropriate [book-tit
 
 ```markdown
 # Genre
-[a high level overview and recommendation of how this premise fits within the genre and meets genre expecattions]
+[a high level overview and recommendation of how this premise fits within the genre and meets genre expectations]
 
 ## Primary Genre
 [main genre for this premise]
@@ -189,7 +189,7 @@ A [flawed identity] who wants [goal] because [motivation], but fears [deepest fe
 
 Species: [only include species if non-human]
 
-Race: [caucasion, hispanic, black, etc]
+Race: [Caucasian, Hispanic, Black, etc]
 
 Gender: [characters gender or species] ([pronouns])
 
@@ -308,7 +308,7 @@ Plot Integration: Line the path leading up to Mount Lagoon. Where Dr. Martin scr
 
 Consistency: Fits the genre of fantasy, has a dark tone in line with horror, is appropriate for this book's theme, main conflict and stakes.
 
-Unexplored Hooks: Did someone purposefully plant the redthrone roses along the path? Were they genetically engineered by a resistance group?
+Unexplored Hooks: Did someone purposefully plant the redthorn roses along the path? Were they genetically engineered by a resistance group?
 
 #### Conflicts (filed in the <recommendations> tag)
 [Problems with how this flora fits into the book, including recommendations on how to fix the problems found]
@@ -353,26 +353,26 @@ The next document will be saved to `world-building/politics.md` in the appropria
 
 ### Highlands (Example country)
 
-Description: The lower part of the contintent of Arcadia.
+Description: The lower part of the continent of Arcadia.
 
 Size/Population: Largest country in the continent, represents 80% of the land mass.
 
 Government: Redhen (Democratic)
 
-Conflicts: Currently at war with Jarminia which consists of the other 20% of the continent. War initiated when the leader of Jarminia ordered the assination of Highlands president but her wife was killed instead.
+Conflicts: Currently at war with Jarminia which consists of the other 20% of the continent. War initiated when the leader of Jarminia ordered the assassination of Highlands president but her wife was killed instead.
 
 ## Governments
 [A description of each government in the book with example format provided below]
 
 ### Redhen (Example government)
-A democratic government ruled by a president with check and balances by a cabinet of high lords, and parliment of under lords.
+A democratic government ruled by a president with check and balances by a cabinet of high lords, and parliament of under lords.
 
 #### Parties
 Wing party - Ideologically radical, want more authoritarian control over the government.
 
 Beak party - Aim for neutral and balanced approach to laws of the land, overlook the needs of the minority.
 
-Claw party - Strongly supported by the lower class, the largest part but the least represntitive power in the government structure.
+Claw party - Strongly supported by the lower class, the largest part but the least representative power in the government structure.
 
 ##### Party Conflicts
 Wing party is in constant turmoil with the Claw party, seeking to control the lower class by any means necessary. Beak party holds the majority in government but does little to stem conflicts.
@@ -456,7 +456,7 @@ Plot Integration: None found.
 
 Consistency: Fits the genre of fantasy, is not in line with the target genre of sci-fi.
 
-Unexplored Hooks: What if this is an alien race that created the parasytic bacteria that infected Johnny King?
+Unexplored Hooks: What if this is an alien race that created the parasitic bacteria that infected Johnny King?
 
 Conflicts: Ducks are racist towards Cougars.
 
@@ -498,12 +498,12 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [A sub-plot is introduced to add more depth to the world, character development/motivation, or the main conflict]
 
 ## Obstacles in the New World
-[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the protagonist]
+[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the antagonist]
 
 ## Midpoint - Raise the Stakes
 [A major twist raises the stakes for the entire book and may set the protagonist down a path they never expected to follow]
 
-## Villans Add Pressure
+## Villains Add Pressure
 [Either evil forces or the antagonist pulls the protagonist towards a series of defeats]
 
 ## Disaster
@@ -541,7 +541,7 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [Final separation from the protagonists known world and self, showing their willingness to undergo transformation]
 
 ## Obstacles in the New World
-[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the protagonist]
+[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the antagonist]
 
 ## Tools Received
 [Protagonist gets powerful tools to aid them towards their goal]
@@ -559,16 +559,16 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [With the previous steps in place to purify and prepare the protagonist, they achieve their goal which is usually a transcendant experience]
 
 ## Debate of Return
-[Having found their englightenment after getting the goal, the protagonist may not want to return to the ordinary world]
+[Having found their enlightenment after getting the goal, the protagonist may not want to return to the ordinary world]
 
 ## Escape
-[The protagonist must escape the power that threaten their ability to keep whatever the acquired]
+[The protagonist must escape the power that threaten their ability to keep whatever they acquired]
 
 ## Rescue
-[The progatonist is wounded or weakened by the escape experience, but through powerful guides or rescuers find a way back to every day life]
+[The protagonist is wounded or weakened by the escape experience, but through powerful guides or rescuers find a way back to every day life]
 
 ## Return
-[The progatonist must accept the mudane ups and downs of returning to everday life]
+[The protagonist must accept the mundane ups and downs of returning to everyday life]
 
 ## Fulfilment
 [The protagonist achieves balance between the spiritual and material, or uses their enlightment to become comfortable and competent with their wholistic self]
@@ -581,10 +581,10 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 # Romance Story Beats
 
 ## Character Intro
-[The progatonist is introduced and we learn what motivates them (which may not initially be the relationship)]
+[The protagonist is introduced and we learn what motivates them (which may not initially be the relationship)]
 
 ## Meet Cute
-[Protagonist has a unique meeting with the eventual love interest which may be the antagonist if this is a hate to love and they initally hate them]
+[Protagonist has a unique meeting with the eventual love interest which may be the antagonist if this is a hate to love and they initially hate them]
 
 ## Debate
 [Obstacles or objections surface which causes the protagonist to debate whether or not to enter a relationship with the love interest]
@@ -620,17 +620,17 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 ## Mystery Revealed
 [Usually a murder, but some crime takes place that leaves behind one major clue to start an investigation]
 
-## Invetigation Begins
+## Investigation Begins
 [Investigator (often the protagonist) seeks to solve the mystery but potential consequences loom in the future]
 
 ## False Clues
-[Investigator encouters evidence that could implication the wrong suspects or are not connected at all]
+[Investigator encounters evidence that could implicate the wrong suspects or are not connected at all]
 
 ## Hidden Clue 1
-[Either the investator or the audience is given a subtle clue as a solution to the mystery, but in a way it is easily ignored or missed by the reader]
+[Either the investigator or the audience is given a subtle clue as a solution to the mystery, but in a way it is easily ignored or missed by the reader]
 
 ## Initial Suspects
-[Investigator considers several people as suspects and reader is introduced to solid reasons why they might have comitted the crime, often none are the criminal]
+[Investigator considers several people as suspects and reader is introduced to solid reasons why they might have committed the crime, often none are the criminal]
 
 ## Midpoint
 [Implications of the crime, or difficulty solving the crime, are revealed to be more emotionally charged or consequential that the investigator thought]
@@ -639,7 +639,7 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [At least one suspect is eliminated from consideration in light of new evidence]
 
 ## Hidden Clue 2
-[Either the investator or the audience is given another subtle clue as a solution to the mystery, but in a way it is easily ignored or missed by the reader]
+[Either the investigator or the audience is given another subtle clue as a solution to the mystery, but in a way it is easily ignored or missed by the reader]
 
 ## Crime Looks Unsolvable
 [The investigator either fakes the reader out by making the crime seem unsolvable, or they reach the end of the available evidence and still come up short]
@@ -648,7 +648,7 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [Investigator has a break through moment (which may or may not be revealed to the reader) where they figure out how the clues connect to the real criminal]
 
 ## Confrontation With Criminal
-[In a unique and surprising way, the investigator confronts the criminal and proves they are the only one who could have comitted the crime]
+[In a unique and surprising way, the investigator confronts the criminal and proves they are the only one who could have committed the crime]
 
 ## Closing Image
 [The implication on solving the crime is revealed for all characters, including what life will be like for the protagonist moving forward (must have at least a small change)]
@@ -715,9 +715,9 @@ The next document will be saved to `story-bibles/[book-title]/outline/[story-typ
 [Something major happens that big enough the protagonist has to choose to take an action that leads them outside of their normal life to confront it]
 
 ## Obstacles in the New World
-[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the protagonist]
+[Events that challenge the protagonist and help them gain skills or knowledge needed when they face the antagonist]
 
-## Villans Add Pressure
+## Villains Add Pressure
 [Either evil forces or the antagonist pulls the protagonist towards a series of defeats]
 
 ## Disaster
@@ -784,17 +784,17 @@ Author: Kelly Hamstrong
 
 Description: An alien virus destroys a beautiful flower garden unless botanist Juniper Dawn can find the cure
 
-Tropes: Enemies to lovers, doomsday, virual outbreak
+Tropes: Enemies to lovers, doomsday, viral outbreak
 
 Amazon or BISAC Categories: Scifi, Action/Adventure, Aliens
 
 Price: $13.99
 
-Similarties: This novel includes viruses and alien flora/fauna the same what this book does.
+Similarities: This novel includes viruses and alien flora/fauna the same what this book does.
 
 Differences: The main character in this novel is driven by green but in your book the main character has no motivations.
 
-Novelty: Guns and Roses has greater novely than your book because it includes fun cultural music references.
+Novelty: Guns and Roses has greater novelty than your book because it includes fun cultural music references.
 
 Link: [url-to-purchase-guns-and-roses]
 ```
@@ -806,12 +806,12 @@ The next document will be saved to `marketing/ad-copy.md` in the appropriate [bo
 [Examples of short and hooky ad copy for each of the following social media platforms: youtube, instagram, facebook, threads, bluesky, tiktok or amazon. Sample format provided below]
 
 ## Passion with Fashion (Facebook)
-From zero to hero, Letty Brown will snip her bra and sew Dean Forrester into the pattern of her latest lingere fashion line. 
+From zero to hero, Letty Brown will snip her bra and sew Dean Forrester into the pattern of her latest lingerie fashion line. 
 
 ## Bra to the Wall (Amazon)
-Letty Brown will snip her bra and sew Dean Forrester's heart into the pattern of her latest lingere fashion line.
+Letty Brown will snip her bra and sew Dean Forrester's heart into the pattern of her latest lingerie fashion line.
 
-# Potential Lead Magenets
+# Potential Lead Magnets
 [Ideas for how this book could be used in whole or in part as lead magnets]
 ```
 

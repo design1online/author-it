@@ -41,7 +41,7 @@ Find all sections tagged as <recommendations> for [book-title] and compile them 
 [A high level summary of the things being recommended]
 
 ## [Rank] Priority
-[A list of the highiest ranked items that should be addressed, each in it's own priority section (urgent, high, medium, low). Each item must iclude clear and concise developmental editor feedback for why this was classified this way and suggestions (tagged as <suggestion>) on how to improve or fix the problem. Example format procided below.]
+[A list of the highest ranked items that should be addressed, each in it's own priority section (urgent, high, medium, low). Each item must include clear and concise developmental editor feedback for why this was classified this way and suggestions (tagged as <suggestion>) on how to improve or fix the problem. Example format provided below.]
 
 ## 1. Character Too Pasive
 Currently the protagonist is too passive, meaning things happen TO them rather than them actively making decisions that affect the plot.
@@ -49,10 +49,10 @@ Currently the protagonist is too passive, meaning things happen TO them rather t
 ### Reasoning
 Passive protagonists make for an uninteresting story
 - <suggestion>The protagonist should chose to pick up the sword rather than have it handed to them</suggestion>
-- <suggestion>When the protagonist meets the villan have them chose to stab them with the sword to save their brother</suggestion>
+- <suggestion>When the protagonist meets the villain have them chose to stab them with the sword to save their brother</suggestion>
 
-## Overal Developmental Feedback
-[As an exprienced developmental editor working with books in this genre and target audience, provide an overall critique of the premise, tropes, characters, world building, and story and outline of [book-title]. Provide strengths and weaknesses for each section, including suggestions (tagged as <suggestion>) for how to fix any issues found. Finally, provide an overall rating of the story based on all the issues found, recommendations, and suggestions including your reasoning for the rating provided.]
+## Overall Developmental Feedback
+[As an experienced developmental editor working with books in this genre and target audience, provide an overall critique of the premise, tropes, characters, world building, and story and outline of [book-title]. Provide strengths and weaknesses for each section, including suggestions (tagged as <suggestion>) for how to fix any issues found. Finally, provide an overall rating of the story based on all the issues found, recommendations, and suggestions including your reasoning for the rating provided.]
 
 ## Suggestion Checklist
 [A checklist of all items tagged as <suggestion> so they can be marked off as they're worked on, each one simplified into 1-2 sentences]
