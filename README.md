@@ -2,7 +2,7 @@
 AI skills for writers who don't want AI writing their novels for them...
 
 ## Overview
-This repository contains Claude Code skills for authors. These skills help you plan, develop, and refine your book — but they never write your story for you.
+This repository contains Claude Code skills for authors. These skills help you plan, develop, and refine your book — but they never write your story for you. Using these skills will classify your work as **AI Assisted** because these are **NOT** generative AI skills.
 
 ## Requirements
 
