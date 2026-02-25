@@ -301,6 +301,9 @@ Create an overall summary of the [story-content] in the following format:
 **Target Reader**
 [Provide an analysis and archetype of the target reader for this type of content based on current industry trends]
 
+**Developmental Editor Suggestions**
+[Provide an analysis of this story content from a developmental editor perspective, including strengths and weaknesses]
+
 **Overall Impression**
 [Provide an overall impression on this content given everything you've analyzed so far]
 

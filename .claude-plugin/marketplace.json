@@ -1,0 +1,21 @@
+{
+  "name": "author-it",
+  "owner": {
+    "name": "design1online"
+  },
+  "metadata": {
+    "description": "AI skills for authors that help plan, develop, and refine your book without writing it for you"
+  },
+  "plugins": [
+    {
+      "name": "author-it",
+      "source": {
+        "source": "github",
+        "repo": "design1online/author-it"
+      },
+      "description": "AI skills for authors that help plan, develop, and refine your book without writing it for you",
+      "homepage": "https://github.com/design1online/author-it",
+      "license": "MIT"
+    }
+  ]
+}

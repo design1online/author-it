@@ -1,0 +1,11 @@
+{
+  "name": "author-it",
+  "description": "AI skills for authors that help plan, develop, and refine your book without writing it for you",
+  "version": "1.0.0",
+  "author": {
+    "name": "design1online"
+  },
+  "homepage": "https://github.com/design1online/author-it",
+  "repository": "https://github.com/design1online/author-it",
+  "license": "MIT"
+}
