@@ -39,24 +39,24 @@ This is a comprehensive checklist that can be used to evaluate good writing or s
 35. Avoid plot holes or story beat inconsistencies. 
 
 # Do an Evaluation
-Evaluate the sample of writing given against each item in this checklist. Call out anywhere the writing doesn't meet these guidelines. Suggest ways to fix the problems found in this list, then provide a re-write of the work by only changing words or sentence structure where the sample writing fails to meet these guidelines. Save this as [book-title]-[date]-evaluation.md using the following format:
+Evaluate the sample of writing given against each item in this checklist. Call out anywhere the writing doesn't meet these guidelines. Save this as [book-title]-[date]-evaluation.md using the following format:
 
 # [Book-Title] Evaluation ([date])
 
 [iterate over all problems found matching the items in the checklist above with the format provided below]
 
-[#]. [first item from the checklist above re-stated in clear and concise language, no more than 1 sentence long]
+## [first item from the checklist above re-stated in clear and concise language, no more than 1 sentence long]
   - [ ] [priority]: [checklist topic this item was raised for] - [item found that meets the checklist criteria above]
-    - [ ] Reasoning: [explain why this was added to this checklist]
-    - [ ] Suggested [type of suggestion ie fix, adjust, add, remove, etc]: [suggestion on how to fix this item with detailed examples of the suggested change]
-      - [ ] *Example:* [Provide an example of how they could implement this suggested fix and stick to the original prose, word choice and sentence structure as much as possible.]
+    - Reasoning: [explain why this was added to this checklist]
+    - Suggested [type of suggestion ie fix, adjust, add, remove, etc]: [suggestion on how to fix this item with detailed examples of the suggested change]
+      - *Example:* [Provide an example of how they could implement this suggested fix and stick to the original prose, word choice and sentence structure as much as possible.]
   - [...iterate through any other issues identified under this checklist topic before going to checklist item 2.]
 
 Here is an example of what would be generated using this format:
 
 # My Dog Bruno Evaluation (April 18, 2026)
 
-1. Show don't tell
+## Show don't tell
   - [ ] **HIGH:** Bruno loved his bone.
     - Reasoning: When you tell the reader that bruno loves his bone this is a missed opportunity to say a lot more about his personality or reaction that shows how much he loves it.
     - Suggest fix: Consider what physical reactions Bruno makes to his bone, does he pounce on it, throw it in the air, carry it around the room in his mouth with his tail wagging?
@@ -69,7 +69,7 @@ Here is an example of what would be generated using this format:
     - Reasoning: Saying he felt drained can be replaced by showing his reaction to the test on his desk.
       - Suggest fix: Describe what happens in his body language or what he does with his failing grade after it lands on his desk. Does he rip it up, slam his fist down, or shove it hurriedly into his backpack so no one else can see? Does he go pale or grit his teeth?
         - *Example:* His face went pale when the teacher placed his failing test on his desk. He slapped his hand down over the big red F and then shoved it into his backpack when Jenny craned her neck towards him.
-2. Character inconsistencies
+## Character inconsistencies
   - [ ] **LOW:** John mentions he has an $80,000 truck but he works as a bagger in a grocery store.
       - Reasoning: With such a low salary John wouldn't be able to afford a truck this expensive without a plausible reason.
       - Suggest fix: Explain that John is borrowing the truck from a friend, or inherited the truck from his dad, or imply that he is doing underhanded work on the side that would give him a plausible reason for having a truck this expensive. Alternatively, change it to an $8,000 truck that he's still making payments on.
@@ -100,4 +100,4 @@ Provide a comprehensive report on the writing sample evaluated in [book-title]-[
 
 # Strong Writing Checklist
 
-[Copy the exact full evaluation checklist (exclude the title) from [book-title]-[date]-evaluation.md here]
+[Copy the exact full evaluation checklist (excluding the title) from [book-title]-[date]-evaluation.md here]
