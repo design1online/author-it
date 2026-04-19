@@ -2,41 +2,44 @@
 
 This is a comprehensive checklist that can be used to evaluate good writing or strengthen existing writing.
 
-1. Show don't tell 
-2. Maintains the character voice by taking into account their personality, background, wound/flaw, age, occupation and experiences. An old woman shouldn't suddenly sound like a valley girl. A private detective shouldn't act like a school teacher. A layperson wouldn't have knowledge or skills in advanced mathematical research without a concrete explanation. Someone who is poor doesn't own a million dollar car without a logical reason (ie inherited it from a rich relative, stole it, etc).
+1. Show, don't tell 
+2. Maintains the character voice by taking into account their personality, background, wound/flaw, age, occupation and experiences. An old woman shouldn't suddenly sound like a valley girl. A private detective shouldn't act like a school teacher. A layperson wouldn't have knowledge or skills in advanced mathematical research without a concrete explanation. Someone who is poor doesn't own a million dollar car without a logical reason (ie inherited it from a rich relative, stole it, etc)
 3. Every scene should incorporate as many senses as possible to help the reader feel immersed in the environment: balance, sight, smell, taste, touch, temperature
-4. No repetitive phrases or words (ie don't start every sentence with I in a first person POV or use the word blue three times within the same four paragraphs).
+4. No repetitive phrases or words (ie don't start every sentence with I in a first person POV or use the word blue three times within the same four paragraphs)
 5. Use strong adjectives over adverbs
-6. Don't use second person pronouns unless they are in character dialogue or the entire scene is written in second person perspective.
+6. Don't use second person pronouns unless they are in character dialogue or the entire scene is written in second person perspective
 7. Show the actions a character is taking or the emotions a character is feeling rather than telling the action or emotion directly (ie he smiled rather than he's happy)
-8. Pacing is important to good writing. Actions scenes, fight scenes or intense scenes should have shorter and punchier sentences. Sentences, paragraphs and chapters should vary in length. Lots of long sentences in a row is harder for people to read. If you do an analysis of sentence length it should have a variation in the length rather than lots of sentences in similar lengths. This helps set a rhythm to the story.
-9. Chapters should be at least 1,500 words long. Chapters should typically be no longer than 3,500 words long. Chapters must never be more than 5,000 words.
-10. Every scene needs a hook, escalation, pivot, conflict and consequences with the consequences leading to the hook of the next chapter.
+8. Pacing is important to good writing. Actions scenes, fight scenes or intense scenes should have shorter and punchier sentences. Sentences, paragraphs and chapters should vary in length. Lots of long sentences in a row is harder for people to read. If you do an analysis of sentence length it should have a variation in the length rather than lots of sentences in similar lengths. This helps set a rhythm to the story
+9. Chapters should be at least 1,500 words long. Chapters should typically be no longer than 3,500 words long. Chapters must never be more than 5,000 words
+10. Every scene needs a hook, escalation, pivot, conflict and consequences with the consequences leading to the hook of the next chapter
 11.  Reduce the use of dialogue tags, the voice of the character or flow of the story should make it easy for the reader to tell who is talking. Only use dialogue tags when it's not clear who is talking in a long section of back and forth dialogue.
-12. Avoid adverbs in dialogue, use stronger verbs or adjectives.
+12. Avoid adverbs in dialogue, use stronger verbs or adjectives
 13. Don't use passive indications or passive sentences.
-14. Tenses must be consistent throughout the story, scenes and chapters unless the passage is a flashback/something that happened in the past.
+14. Tenses must be consistent throughout the story, scenes and chapters unless the passage is a flashback/something that happened in the past
 15. Don't use cliches
 16. Remove redundancies in words or sentences that say almost the exact same thing more than once
 17. Consistent point of view, for the chapter or scene, no head hopping
 18. No unnecessary filler words, reduce glue words by writing a sentence with stronger verbs or adjectives
 19. Writing word choice should meet the target audience, for example don't use words at an 8th grade reading level for a book written for kindergarteners. Do a lexical analysis to make sure the text is at the appropriate reading level.
-20. Slang/colloquialisms should exist in the character dialogue or story elements so that the world feels authentic. For example, characters might call food "chum" if they live in a world where eating is done out of necessity because it doesn't taste good.
-21. World building should make sense for the location or elements presented in the story.
-22. World building established should persist throughout the story, something introduced in chapter 1 shouldn't suddenly disappear by chapter 10.
-23. Limit sentences that start with an initial pronoun or character names.
-24. Avoid sentence starters.
-25. Avoid generic descriptions.
-26. Avoid misspelled words.
-27. Avoid incorrect punctuation.
-28. Avoid grammatical errors.
-29. Don't start the story with a character waking up or in a dream.
-30. Don't start the story with weather unless it's unusual weather.
-31. The protagonist must be active with their actions/decisions driving the story forward not just reacting to the plot or environment changes happening around them.
-32. POV must be consistent throughout the entire scene unless there's a scene break.
+20. Slang/colloquialisms should exist in the character dialogue or story elements so that the world feels authentic. For example, characters might call food "chum" if they live in a world where eating is done out of necessity because it doesn't taste good
+21. World building should make sense for the location or elements presented in the story
+22. World building established should persist throughout the story, something introduced in chapter 1 shouldn't suddenly disappear by chapter 10
+23. Limit sentences that start with an initial pronoun or character names
+24. Avoid sentence starters
+25. Avoid generic descriptions
+26. Avoid misspelled words
+27. Avoid incorrect punctuation
+28. Avoid grammatical errors
+29. Don't start the story with a character waking up or in a dream
+30. Don't start the story with weather unless it's unusual weather
+31. The protagonist must be active with their actions/decisions driving the story forward not just reacting to the plot or environment changes happening around them
+32. POV must be consistent throughout the entire scene unless there's a scene break
 33. No head hopping where the narrator shifts between character perspectives within a single scene, paragraph, or even sentence.
 34. Avoid using anything other than he/she said or asked after character dialoge for best dialoge readability.
-35. Avoid plot holes or story beat inconsistencies. 
+35. Avoid plot holes or story beat inconsistencies
+36. Strong hook on the first sentence: catches readers attention and keeps them reading, has strong character voice, leaves reader asking questions, has tension or conflict or stakes
+37. No info dumping
+38. The last sentence of a chapter should setup a strong hook for the next chapter
 
 # Do an Evaluation
 Evaluate the sample of writing given against each item in this checklist. Call out anywhere the writing doesn't meet these guidelines. Save this as [book-title]-[date]-evaluation.md using the following format:
