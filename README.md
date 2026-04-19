@@ -87,6 +87,29 @@ The skill creates a structured set of files in a `story-bibles/[book-title]/` fo
 The skill works iteratively — it asks 1–3 targeted questions at a time, states its assumptions, and waits for your confirmation before moving forward. It will not generate final documents until all gaps and ambiguities are resolved.
 
 ---
+### `/author-it:create-scene`
+
+**Usage:** `/author-it:create-scene`
+
+Helps you create a standardized template you can use to help you write compelling scenes or evaluate an existing scene. This skill generates a report that provides:
+
+* Story Beat - which beat this scene covers
+* Characters In Scene - a list of all characters in the scene
+* Story Question - also known as the promise of the premise, how this scene contributes to the question this story is asking
+* Story Pitch - how this story is being marketed in a single sentence
+* Theme - the theme of this story
+* Story Beat Sentence - a sentence that helps you align what happens in this scene with the scene goal, story beat and story question
+* Day - what day this scene takes place in the timeline of the story
+* Location - where this scene takes place
+* Scene Goal - the ultimate goal of this scene (ie inciting incident, character introduction, character growth, world building, plot development, foreshadowing device, etc).
+  * Hook - how the first sentence will grab attention, make the reader ask questions, introduce conflict, tension or stakes.
+  * Escalation - a setback or minor problem
+  * Pivot - a change of pace, breather, introduction of something new or a change of direction
+  * Conflict - a major problem that arises preventing them from reaching their goal
+  * Consequences - fallout of the conflict and sets up the strong hook for the next scene or chapter
+* Key Points - a list of events, items, or important information that must happen or be included in this scene to help setup later scenes or sub-plots
+
+---
 
 ### `/author-it:dev-editor-recommendations`
 
@@ -125,3 +148,11 @@ The coach walks through seven evaluation stages:
 7. **Overall Impression** — Provides a full reader synopsis, un-put-downable analysis, unanswered questions, plot holes, conflicts, inconsistencies, genre, tone, tropes, target reader, and a final rating.
 
 Each stage lets you dig deeper with clarifying questions or move on. At the end you can generate a downloadable summary of the full coaching session.
+
+---
+
+### `/author-it:strong-writing-checklist`
+
+**Usage:** `/author-it:strong-writing-checklist`
+
+A comprehensive checklist of 35 items used to evaluate your writing to see how strong it is. Generates a report with a star rating out of 5, your writing strengths, weaknesses, and all issues found in a prioritized checklist.
