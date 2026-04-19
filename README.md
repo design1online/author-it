@@ -91,7 +91,9 @@ The skill works iteratively — it asks 1–3 targeted questions at a time, stat
 
 **Usage:** `/author-it:create-scene`
 
-Helps you create a standardized template you can use to help you write compelling scenes or evaluate an existing scene. This skill generates a report that provides:
+Creates a standardized template for scenes and helps you write a compelling scenes or evaluates an existing scene.
+
+The report includes:
 
 * Story Beat - which beat this scene covers
 * Characters In Scene - a list of all characters in the scene
