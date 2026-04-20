@@ -43,7 +43,7 @@ Find all sections tagged as <recommendations> for [book-title] and compile them 
 ## [Rank] Priority
 [A list of the highest ranked items that should be addressed, each in it's own priority section (urgent, high, medium, low). Each item must include clear and concise developmental editor feedback for why this was classified this way and suggestions (tagged as <suggestion>) on how to improve or fix the problem. Example format provided below.]
 
-## 1. Character Too Pasive
+## 1. Character Too Passive
 Currently the protagonist is too passive, meaning things happen TO them rather than them actively making decisions that affect the plot.
 
 ### Reasoning
