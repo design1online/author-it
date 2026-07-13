@@ -1,4 +1,5 @@
----                                                         name: create-book
+---                                                         
+name: dev-editor-recommendations
 description: Does a dev editor pass on files created from the create-story-bible skill
 autocomplete-hint: [book-title]
 allowed-tools: Read, Write, Bash, Edit, Glob, Grep, WebSearch, and Agent
