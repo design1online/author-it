@@ -133,6 +133,21 @@ If a `recommendations.md` file already exists, the skill archives it with a date
 
 ---
 
+### `/author-it:query-letter-workshop`
+
+**Usage:** `/author-it:query-letter-workshop`
+
+An experienced literary agent's perspective on your query letter. Guides you through providing the information needed to build a query letter using a proven template, then coaches you on whether it would actually hook an agent — never writing or changing your text for you.
+
+The session walks through:
+
+1. **Intake** — author information, bio, book genre/subgenre, target agent, book details (title, word count, standalone vs. series), elevator pitch, and short summary
+2. **Coaching/Feedback** — before generating anything, evaluates whether your bio is brief and authentic, whether your pitch and summary meet genre expectations (and whether the genre is oversaturated), whether the elevator pitch would hook an agent, whether the summary presents a fully developed plot, and a spelling/grammar check
+3. **Template Generation** — assembles your answers into a complete, ready-to-send query letter
+4. **Final Feedback** — a closing round of feedback on the generated letter's strengths and weaknesses, plus suggestions on whether a different agent might be a better fit
+
+---
+
 ### `/author-it:writing-coach`
 
 **Usage:** `/author-it:writing-coach`
@@ -273,6 +288,23 @@ Uses a **Telling Taxonomy** to categorize and prioritize every instance:
 | Backstory-telling | "He'd grown up in a house full of silence." |
 
 HIGH priority items are addressed first. Each gets 2–3 variants (body/behavior-first, object/environment-anchored, action/consequence-based) plus an honest pick with reasoning. Includes an **Earning Test** for summary and backstory, and a **Theme-Stating Audit** for narration that explains the theme rather than embodying it.
+
+---
+
+### `/author-it:line-editing-workshop`
+
+**Usage:** `/author-it:line-editing-workshop`
+
+Line editing support for a chapter, one chapter at a time. Works best on a single chapter — if you paste a full manuscript, it warns you and processes it chapter by chapter instead. Only ever suggests changes; never edits your text or overrides your judgment.
+
+Works through four rounds, each producing an itemized list with line references and suggested fixes:
+
+1. **Pacing/Flow** — run-on paragraphs, run-on sentences, missing or excessive narrator presence, info dumps
+2. **Dialogue** — inconsistent tenses, inconsistent formatting (italics/bold/punctuation), unclear speakers, dialogue tag amount and type, distinct character voice
+3. **Repetition** — unique words used too close together, redundancies, overused or nonsensical clichés, idioms, overused phrases or words
+4. **Readability** — grade level and complex word count, technical jargon, generic descriptions, told vs. shown situations, initial pronouns/names, sentence starters, filler words
+
+At the end, choose one combined document with each round as a header, or four separate documents (recommended).
 
 ---
 
